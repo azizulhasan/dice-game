@@ -1,0 +1,25 @@
+/*@media (min-width:200px) and (max-width:600px){
+       #mybtn{
+            z-index: 99999;
+            font-size: 15px; 
+            margin-left: -20%;
+            padding: 90px 0;
+            display: none;
+        }
+       
+
+        #mypera {
+        z-index: 999;
+        background: red;
+        color: whitesmoke;
+        height: 40%;
+        width: 90%;
+        text-align: justify;
+        padding: 20px 15px 0;
+        font-size: 20px; 
+        align-self: center;
+        position: absolute;
+        display: none;
+
+    }
+}*/
